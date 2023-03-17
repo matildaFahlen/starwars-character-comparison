@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.ul-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+.character-wrapper {
+    width: 100%;
+}
+.name-wrapper, .info-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
